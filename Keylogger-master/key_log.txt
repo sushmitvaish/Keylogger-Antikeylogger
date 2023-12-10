@@ -1,0 +1,770 @@
+2019-09-09 22:20:37,164: 'h'
+2019-09-09 22:20:37,291: 'e'
+2019-09-09 22:20:37,550: 'l'
+2019-09-09 22:20:37,683: 'l'
+2019-09-09 22:20:37,872: 'o'
+2019-09-09 22:20:38,271: Key.space
+2019-09-09 22:20:39,059: 'w'
+2019-09-09 22:20:39,179: 'o'
+2019-09-09 22:20:39,441: 'r'
+2019-09-09 22:20:39,570: 'l'
+2019-09-09 22:20:39,697: 'd'
+2019-09-09 22:21:22,783: 'h'
+2019-09-09 22:21:38,796: Key.ctrl_l
+2019-09-09 22:21:38,975: 'z'
+2019-09-09 22:21:46,809: Key.ctrl_l
+2019-09-09 22:21:54,907: 's'
+2019-09-09 22:21:55,040: 't'
+2019-09-09 22:21:55,231: 'r'
+2019-09-09 22:21:56,053: Key.shift_r
+2019-09-09 22:21:56,541: Key.shift_r
+2019-09-09 22:21:56,545: '9'
+2019-09-09 22:21:56,921: Key.right
+2019-09-09 22:21:57,100: Key.right
+2019-09-09 22:21:57,202: Key.right
+2019-09-09 22:21:57,704: Key.shift_r
+2019-09-09 22:21:58,141: '0'
+2019-09-09 22:21:58,951: Key.shift_r
+2019-09-09 22:21:59,250: '0'
+2019-09-09 22:22:14,297: Key.enter
+2019-09-09 22:22:14,763: 'p'
+2019-09-09 22:22:15,018: 'r'
+2019-09-09 22:22:15,154: 'i'
+2019-09-09 22:22:15,328: 'n'
+2019-09-09 22:22:15,399: 't'
+2019-09-09 22:22:15,695: Key.shift_r
+2019-09-09 22:22:15,946: '9'
+2019-09-09 22:22:16,977: 's'
+2019-09-09 22:22:17,106: 't'
+2019-09-09 22:22:17,244: 'r'
+2019-09-09 22:22:17,784: Key.shift_r
+2019-09-09 22:22:18,115: '9'
+2019-09-09 22:22:18,321: 'k'
+2019-09-09 22:22:18,627: 'e'
+2019-09-09 22:22:19,183: 'y'
+2019-09-09 22:22:19,592: Key.right
+2019-09-09 22:22:19,917: Key.space
+2019-09-09 22:22:20,066: Key.shift_r
+2019-09-09 22:22:20,267: '='
+2019-09-09 22:22:20,442: Key.space
+2019-09-09 22:22:20,606: "'"
+2019-09-09 22:22:20,971: Key.space
+2019-09-09 22:22:21,147: Key.shift
+2019-09-09 22:22:21,266: 'p'
+2019-09-09 22:22:21,550: 'r'
+2019-09-09 22:22:21,738: 'e'
+2019-09-09 22:22:21,938: 'd'
+2019-09-09 22:22:22,081: 'd'
+2019-09-09 22:22:22,286: 'e'
+2019-09-09 22:22:22,740: Key.backspace
+2019-09-09 22:22:22,955: Key.backspace
+2019-09-09 22:22:23,052: Key.backspace
+2019-09-09 22:22:23,321: 's'
+2019-09-09 22:22:23,528: 's'
+2019-09-09 22:22:23,791: 'e'
+2019-09-09 22:22:23,944: 'd'
+2019-09-09 22:22:24,314: Key.right
+2019-09-09 22:22:24,528: Key.right
+2019-09-09 22:22:25,061: Key.ctrl_l
+2019-09-09 22:22:25,282: 's'
+2019-09-09 22:22:45,530: 's'
+2019-09-09 22:22:48,475: 's'
+2019-09-09 22:22:48,845: 's'
+2019-09-09 22:23:07,091: 'q'
+2019-09-09 22:23:07,308: 'w'
+2019-09-09 22:23:07,519: 'e'
+2019-09-09 22:23:07,971: 'r'
+2019-09-09 22:23:08,338: '1'
+2019-09-09 22:23:08,551: '2'
+2019-09-09 22:23:08,783: '3'
+2019-09-09 22:24:15,097: '`'
+2019-09-09 22:24:15,990: '1'
+2019-09-09 22:24:16,219: '2'
+2019-09-09 22:24:16,616: '3'
+2019-09-09 22:24:17,045: Key.backspace
+2019-09-09 22:24:17,534: Key.backspace
+2019-09-09 22:24:17,564: Key.backspace
+2019-09-09 22:24:17,593: Key.backspace
+2019-09-09 22:24:17,623: Key.backspace
+2019-09-09 22:24:17,655: Key.backspace
+2019-09-09 22:24:17,684: Key.backspace
+2019-09-09 22:24:17,714: Key.backspace
+2019-09-09 22:24:40,157: Key.ctrl_l
+2019-09-09 22:24:40,452: 'z'
+2019-09-09 22:25:20,472: 'j'
+2019-09-09 22:25:20,646: 'j'
+2019-09-09 22:25:20,774: 'j'
+2019-09-09 22:25:23,382: 't'
+2019-09-09 22:25:23,569: 'y'
+2019-09-09 22:25:23,800: 't'
+2019-09-09 22:25:24,340: Key.backspace
+2019-09-09 22:25:24,542: Key.backspace
+2019-09-09 22:25:24,647: Key.backspace
+2019-09-09 22:25:24,750: Key.backspace
+2019-09-09 22:33:08,135: 'h'
+2019-09-09 22:33:10,967: 'h'
+2019-09-09 22:33:11,186: 'h'
+2019-09-09 22:33:11,634: Key.backspace
+2019-09-09 22:33:11,800: Key.backspace
+2019-09-09 22:33:11,934: Key.backspace
+2019-09-09 22:33:27,823: Key.enter
+2019-09-09 22:33:28,151: 'p'
+2019-09-09 22:33:28,470: 'r'
+2019-09-09 22:33:28,867: Key.backspace
+2019-09-09 22:33:28,998: Key.backspace
+2019-09-09 22:33:29,124: Key.backspace
+2019-09-09 22:33:29,385: Key.backspace
+2019-09-09 22:33:30,137: Key.backspace
+2019-09-09 22:33:30,394: Key.backspace
+2019-09-09 22:33:31,174: Key.backspace
+2019-09-09 22:33:32,984: Key.down
+2019-09-09 22:33:33,298: Key.enter
+2019-09-09 22:33:33,596: Key.up
+2019-09-09 22:33:34,132: 'p'
+2019-09-09 22:33:34,320: 'r'
+2019-09-09 22:33:34,446: 'i'
+2019-09-09 22:33:34,639: 'n'
+2019-09-09 22:33:34,751: 't'
+2019-09-09 22:33:35,122: Key.shift_r
+2019-09-09 22:33:35,346: '9'
+2019-09-09 22:33:35,990: "'"
+2019-09-09 22:33:37,523: 'h'
+2019-09-09 22:33:37,679: 'e'
+2019-09-09 22:33:37,820: 'l'
+2019-09-09 22:33:37,953: 'l'
+2019-09-09 22:33:38,105: 'o'
+2019-09-09 22:33:38,580: Key.ctrl_l
+2019-09-09 22:33:38,834: 's'
+2019-09-09 22:33:42,069: Key.backspace
+2019-09-09 22:33:42,236: Key.backspace
+2019-09-09 22:33:43,951: Key.ctrl_l
+2019-09-09 22:33:44,314: 's'
+2019-09-09 22:33:46,460: Key.ctrl_l
+2019-09-09 22:33:46,780: 's'
+2019-09-09 22:33:57,364: 's'
+2019-09-09 22:33:59,844: 'a'
+2019-09-09 22:34:00,192: 's'
+2019-09-09 22:34:00,496: 'a'
+2019-09-09 22:36:04,364: 'a'
+2019-09-09 22:36:05,530: 'a'
+2019-09-09 22:36:05,741: 'a'
+2019-09-09 22:36:08,137: 'a'
+2019-09-09 22:36:08,503: 's'
+2019-09-09 22:36:08,754: 'a'
+2019-09-09 22:36:12,259: 's'
+2019-09-09 22:36:12,423: 's'
+2019-09-09 22:36:12,586: 's'
+2019-09-09 22:36:12,747: 's'
+2019-09-09 22:36:12,894: 's'
+2019-09-09 22:36:13,046: 's'
+2019-09-09 22:36:13,212: 's'
+2019-09-09 22:36:13,353: 's'
+2019-09-09 22:36:13,518: 's'
+2019-09-09 22:36:51,646: Key.left
+2019-09-09 22:36:51,878: Key.shift_r
+2019-09-09 22:36:52,368: Key.shift_r
+2019-09-09 22:36:52,397: Key.shift_r
+2019-09-09 22:36:52,427: Key.shift_r
+2019-09-09 22:36:52,456: Key.shift_r
+2019-09-09 22:36:52,486: Key.shift_r
+2019-09-09 22:36:52,515: Key.shift_r
+2019-09-09 22:36:52,548: Key.shift_r
+2019-09-09 22:36:52,580: Key.shift_r
+2019-09-09 22:36:52,614: Key.shift_r
+2019-09-09 22:36:52,646: Key.shift_r
+2019-09-09 22:36:52,675: Key.shift_r
+2019-09-09 22:36:52,706: Key.shift_r
+2019-09-09 22:36:52,733: Key.shift_r
+2019-09-09 22:36:52,763: Key.shift_r
+2019-09-09 22:36:52,797: Key.shift_r
+2019-09-09 22:36:52,829: Key.shift_r
+2019-09-09 22:36:52,858: Key.shift_r
+2019-09-09 22:36:52,887: Key.shift_r
+2019-09-09 22:36:52,916: Key.shift_r
+2019-09-09 22:36:52,947: Key.shift_r
+2019-09-09 22:36:52,975: Key.shift_r
+2019-09-09 22:36:53,008: Key.shift_r
+2019-09-09 22:36:53,042: Key.shift_r
+2019-09-09 22:36:53,058: '3'
+2019-09-09 22:36:54,467: Key.up
+2019-09-09 22:36:54,672: Key.up
+2019-09-09 22:37:16,363: Key.ctrl_l
+2019-09-09 22:37:16,734: 'c'
+2019-09-09 22:37:24,400: Key.ctrl_l
+2019-09-09 22:37:24,784: 'c'
+2019-09-09 22:37:29,423: Key.ctrl_l
+2019-09-09 22:37:29,664: 'v'
+2019-09-09 22:37:31,006: Key.ctrl_l
+2019-09-09 22:37:31,494: Key.ctrl_l
+2019-09-09 22:37:31,523: Key.ctrl_l
+2019-09-09 22:37:31,553: Key.ctrl_l
+2019-09-09 22:37:31,582: Key.ctrl_l
+2019-09-09 22:37:31,614: Key.ctrl_l
+2019-09-09 22:37:31,644: Key.ctrl_l
+2019-09-09 22:37:32,959: Key.right
+2019-09-09 22:37:33,460: ','
+2019-09-09 22:37:33,837: Key.space
+2019-09-09 22:37:34,073: 'o'
+2019-09-09 22:37:34,293: 'n'
+2019-09-09 22:37:35,132: Key.down
+2019-09-09 22:37:35,405: Key.enter
+2019-09-09 22:37:35,990: '='
+2019-09-09 22:37:36,449: 'o'
+2019-09-09 22:37:36,697: 'n'
+2019-09-09 22:37:37,416: Key.enter
+2019-09-09 22:37:38,018: Key.ctrl_l
+2019-09-09 22:37:38,313: 's'
+2019-09-09 22:37:53,176: 'a'
+2019-09-09 22:37:55,439: 'a'
+2019-09-09 22:37:57,312: 'a'
+2019-09-09 22:37:57,551: 'a'
+2019-09-09 22:41:27,203: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "keylogger.py", line 34, in on_press
+    uploadToDatabase(str(key))
+  File "keylogger.py", line 24, in uploadToDatabase
+    sheet.insert_row(row, index)
+NameError: name 'sheet' is not defined
+2019-09-09 22:42:00,968: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:42:01,887: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:42:01,887: 'h'
+2019-09-09 22:43:01,579: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:02,008: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:02,012: 'h'
+2019-09-09 22:43:02,516: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:02,934: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:02,938: 'l'
+2019-09-09 22:43:03,380: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:03,921: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:03,922: 'o'
+2019-09-09 22:43:04,362: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:04,811: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:04,812: 'w'
+2019-09-09 22:43:05,250: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:05,690: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:05,695: 'r'
+2019-09-09 22:43:06,150: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:06,558: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:06,559: 'd'
+2019-09-09 22:43:18,128: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:18,541: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:18,541: 'h'
+2019-09-09 22:43:20,786: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:21,183: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:21,183: 'h'
+2019-09-09 22:43:21,626: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:22,027: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:22,028: 'e'
+2019-09-09 22:43:22,815: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:23,226: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:23,227: 'e'
+2019-09-09 22:43:27,247: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:27,649: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:27,652: 't'
+2019-09-09 22:43:28,109: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:28,751: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:28,751: 'i'
+2019-09-09 22:43:29,143: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:29,537: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:29,537: Key.space
+2019-09-09 22:43:38,298: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:38,847: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:38,850: Key.delete
+2019-09-09 22:43:40,212: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:40,618: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:40,619: Key.backspace
+2019-09-09 22:43:41,039: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:41,732: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:41,735: Key.backspace
+2019-09-09 22:43:42,152: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:42,551: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:42,551: Key.backspace
+2019-09-09 22:43:42,995: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:43,411: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:43,413: Key.backspace
+2019-09-09 22:43:43,999: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:43:44,403: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:43:44,405: Key.backspace
+2019-09-09 22:50:10,990: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:11,582: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:11,583: 'h'
+2019-09-09 22:50:13,545: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:13,938: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:13,945: 'h'
+2019-09-09 22:50:15,120: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:15,505: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:15,506: 'l'
+2019-09-09 22:50:16,827: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:17,228: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:17,228: 'l'
+2019-09-09 22:50:17,842: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:18,243: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:18,314: 'l'
+2019-09-09 22:50:18,934: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:19,325: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:19,326: 'l'
+2019-09-09 22:50:19,729: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:20,125: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:20,128: 'l'
+2019-09-09 22:50:20,532: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 22:50:20,920: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 22:50:20,922: 'o'
+2019-09-09 22:59:51,936: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "keylogger.py", line 33, in on_press
+    encryptedKey = encypt(key)
+NameError: name 'encypt' is not defined
+2019-09-09 23:00:14,589: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "keylogger.py", line 33, in on_press
+    encryptedKey = encrypt(key)
+NameError: name 'encrypt' is not defined
+2019-09-09 23:00:47,721: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "keylogger.py", line 33, in on_press
+    encryptedKey = encrypt(key)
+NameError: name 'encrypt' is not defined
+2019-09-09 23:01:08,578: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "keylogger.py", line 43, in on_press
+    encryptedKey = encrypt(key)
+  File "keylogger.py", line 34, in encrypt
+    moo = AESModeOfOperation()
+NameError: name 'AESModeOfOperation' is not defined
+2019-09-09 23:02:06,041: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:06,655: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:06,655: 'h'
+2019-09-09 23:02:08,862: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:09,353: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:09,354: 'h'
+2019-09-09 23:02:09,822: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:10,202: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:10,203: 'h'
+2019-09-09 23:02:10,786: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:11,160: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:11,160: 'u'
+2019-09-09 23:02:11,573: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:11,962: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:11,962: 'i'
+2019-09-09 23:02:14,641: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:15,017: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:15,022: 'o'
+2019-09-09 23:02:42,038: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:42,433: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:42,435: Key.backspace
+2019-09-09 23:02:42,839: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:43,227: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:43,231: Key.backspace
+2019-09-09 23:02:43,611: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:43,999: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:44,000: Key.backspace
+2019-09-09 23:02:44,412: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:44,792: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:44,860: Key.backspace
+2019-09-09 23:02:45,288: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:02:45,677: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:02:45,679: Key.backspace
+2019-09-09 23:02:46,146: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:03:19,942: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:03:20,310: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:03:20,310: 'h'
+2019-09-09 23:03:27,141: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:03:27,525: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:03:27,527: 'v'
+2019-09-09 23:43:57,039: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:43:57,731: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:43:57,731: 'h'
+2019-09-09 23:44:05,109: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:44:05,575: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:44:05,579: 'v'
+2019-09-09 23:44:09,779: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:44:10,184: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:44:10,188: 't'
+2019-09-09 23:44:14,235: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:44:14,653: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:44:14,657: 'h'
+2019-09-09 23:44:24,334: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:44:24,741: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:44:24,742: 'h'
+2019-09-09 23:44:25,919: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:44:26,307: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:44:26,307: 'i'
+2019-09-09 23:45:02,412: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:45:02,815: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:45:02,817: 'h'
+2019-09-09 23:45:03,242: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:45:03,652: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:45:03,653: 'e'
+2019-09-09 23:45:04,283: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:45:04,675: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:45:04,676: 'l'
+2019-09-09 23:45:06,341: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:45:06,749: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:45:06,753: Key.backspace
+2019-09-09 23:45:07,157: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:45:07,544: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:45:07,545: Key.backspace
+2019-09-09 23:45:08,158: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:45:08,566: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:45:08,569: Key.backspace
+2019-09-09 23:45:08,976: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:45:09,850: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:45:09,852: Key.backspace
+2019-09-09 23:46:02,185: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "keylogger.py", line 110, in on_press
+    s = char(key) + "x"
+NameError: name 'char' is not defined
+2019-09-09 23:46:23,984: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:24,378: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:24,379: 'h'
+2019-09-09 23:46:25,124: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:25,538: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:25,542: 'i'
+2019-09-09 23:46:25,968: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:26,353: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:26,353: 'm'
+2019-09-09 23:46:27,028: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:27,487: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:27,487: 'b'
+2019-09-09 23:46:27,919: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:28,338: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:28,339: 'g'
+2019-09-09 23:46:29,889: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:30,293: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:30,293: 'g'
+2019-09-09 23:46:30,698: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:31,084: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:31,086: 'g'
+2019-09-09 23:46:31,495: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:31,910: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:31,910: 'g'
+2019-09-09 23:46:34,475: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:34,883: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:34,884: 'h'
+2019-09-09 23:46:38,605: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:39,006: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:39,083: 'h'
+2019-09-09 23:46:39,729: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:40,143: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:40,144: 'l'
+2019-09-09 23:46:40,559: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:40,969: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:40,970: 'o'
+2019-09-09 23:46:47,949: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:46:48,353: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:46:48,355: Key.backspace
+2019-09-09 23:47:01,360: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:01,769: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:01,772: '0'
+2019-09-09 23:47:02,825: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:03,230: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:03,231: '9'
+2019-09-09 23:47:03,676: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:04,081: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:04,084: '8'
+2019-09-09 23:47:04,798: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:05,193: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:05,201: '8'
+2019-09-09 23:47:06,481: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:06,890: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:06,890: Key.shift_r
+2019-09-09 23:47:07,294: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:07,681: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:07,683: Key.shift_r
+2019-09-09 23:47:08,089: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:08,502: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:08,503: Key.shift_r
+2019-09-09 23:47:12,036: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:12,431: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:12,432: Key.tab
+2019-09-09 23:47:13,998: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:14,384: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:14,385: Key.shift
+2019-09-09 23:47:16,574: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:17,044: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:17,044: Key.enter
+2019-09-09 23:47:19,055: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:19,453: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:19,454: Key.enter
+2019-09-09 23:47:20,242: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:20,625: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:20,626: Key.enter
+2019-09-09 23:47:22,218: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:22,635: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:22,636: Key.enter
+2019-09-09 23:47:23,110: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:23,509: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:23,509: Key.up
+2019-09-09 23:47:23,935: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:24,325: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:24,325: Key.left
+2019-09-09 23:47:29,039: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:29,449: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:29,450: Key.up
+2019-09-09 23:47:29,857: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:30,453: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:30,454: Key.up
+2019-09-09 23:47:33,281: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:33,687: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:33,688: 'a'
+2019-09-09 23:47:34,976: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:35,390: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:35,392: 's'
+2019-09-09 23:47:35,847: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:36,249: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:36,253: 'd'
+2019-09-09 23:47:36,680: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:37,070: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:37,074: 'f'
+2019-09-09 23:47:37,557: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:37,979: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:37,980: 'g'
+2019-09-09 23:47:42,390: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:42,803: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:42,804: Key.down
+2019-09-09 23:47:43,315: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:43,726: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:43,727: Key.up
+2019-09-09 23:47:44,394: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:44,795: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:44,797: Key.down
+2019-09-09 23:47:45,361: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:47:45,776: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:47:45,779: Key.up
+2019-09-09 23:48:27,172: 'h'
+2019-09-09 23:48:28,813: 'v'
+2019-09-09 23:48:29,368: 'a'
+2019-09-09 23:48:30,097: 'n'
+2019-09-09 23:48:30,404: 's'
+2019-09-09 23:48:30,659: 'h'
+2019-09-09 23:48:33,265: 'v'
+2019-09-09 23:48:33,572: 'a'
+2019-09-09 23:48:33,905: 'n'
+2019-09-09 23:48:34,052: 's'
+2019-09-09 23:48:34,153: 'h'
+2019-09-09 23:48:34,886: 'v'
+2019-09-09 23:48:35,020: 'a'
+2019-09-09 23:48:35,120: 'n'
+2019-09-09 23:48:35,243: 's'
+2019-09-09 23:48:35,327: 'h'
+2019-09-09 23:48:35,670: 'a'
+2019-09-09 23:48:35,756: 'h'
+2019-09-09 23:48:35,932: 's'
+2019-09-09 23:48:35,943: 'h'
+2019-09-09 23:48:36,092: 'h'
+2019-09-09 23:48:36,146: 's'
+2019-09-09 23:48:36,365: 's'
+2019-09-09 23:48:36,557: 'g'
+2019-09-09 23:48:36,751: 'a'
+2019-09-09 23:48:36,951: 'h'
+2019-09-09 23:48:37,076: 'd'
+2019-09-09 23:48:37,218: 'g'
+2019-09-09 23:48:37,340: 'a'
+2019-09-09 23:48:37,663: 'd'
+2019-09-09 23:48:37,999: 'a'
+2019-09-09 23:48:38,183: 'h'
+2019-09-09 23:48:38,401: 'd'
+2019-09-09 23:48:38,476: 'g'
+2019-09-09 23:48:38,875: 'a'
+2019-09-09 23:49:31,974: Key.backspace
+2019-09-09 23:49:32,145: Key.backspace
+2019-09-09 23:49:32,278: Key.backspace
+2019-09-09 23:49:32,683: 'c'
+2019-09-09 23:49:32,853: 'h'
+2019-09-09 23:49:33,104: 'r'
+2019-09-09 23:49:33,583: Key.right
+2019-09-09 23:49:33,707: Key.right
+2019-09-09 23:49:33,810: Key.right
+2019-09-09 23:49:33,948: Key.right
+2019-09-09 23:49:34,057: Key.right
+2019-09-09 23:49:34,166: Key.right
+2019-09-09 23:49:34,599: Key.left
+2019-09-09 23:49:34,891: Key.space
+2019-09-09 23:49:35,014: Key.shift_r
+2019-09-09 23:49:35,317: '='
+2019-09-09 23:49:35,660: Key.space
+2019-09-09 23:49:35,823: Key.shift_r
+2019-09-09 23:49:35,968: "'"
+2019-09-09 23:49:36,657: Key.backspace
+2019-09-09 23:49:36,876: "'"
+2019-09-09 23:49:37,217: 'x'
+2019-09-09 23:49:37,577: Key.right
+2019-09-09 23:49:40,040: Key.backspace
+2019-09-09 23:49:40,262: Key.backspace
+2019-09-09 23:49:41,894: Key.backspace
+2019-09-09 23:49:42,317: Key.down
+2019-09-09 23:49:42,574: Key.right
+2019-09-09 23:49:42,932: Key.backspace
+2019-09-09 23:49:43,325: Key.ctrl_l
+2019-09-09 23:49:43,617: 's'
+2019-09-09 23:49:55,619: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 157, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\keyboard\_win32.py", line 240, in _process
+    self.on_press(key)
+  File "C:\Users\vansh\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pynput\_util\__init__.py", line 78, in inner
+    if f(*args) is False:
+  File "keylogger.py", line 110, in on_press
+    s = chr(key) + 'x'
+TypeError: an integer is required (got type KeyCode)
+2019-09-09 23:50:53,633: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:50:54,016: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:50:54,018: 'h'
+2019-09-09 23:50:57,244: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:50:58,124: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:50:58,124: 'g'
+2019-09-09 23:50:58,738: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:50:59,142: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:50:59,143: 'f'
+2019-09-09 23:50:59,551: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:50:59,992: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:50:59,995: 'a'
+2019-09-09 23:51:00,427: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:00,809: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:00,810: 'j'
+2019-09-09 23:51:01,605: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:02,022: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:02,024: 'y'
+2019-09-09 23:51:24,883: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:25,271: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:25,272: 'x'
+2019-09-09 23:51:28,174: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:28,567: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:28,570: 'h'
+2019-09-09 23:51:34,595: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:34,965: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:34,965: Key.left
+2019-09-09 23:51:35,651: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:36,036: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:36,036: Key.left
+2019-09-09 23:51:38,921: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:39,521: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:39,522: Key.backspace
+2019-09-09 23:51:40,765: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:41,153: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:41,154: Key.ctrl_l
+2019-09-09 23:51:51,385: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:51,809: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:51,813: 'h'
+2019-09-09 23:51:54,492: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:54,909: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:54,913: 'a'
+2019-09-09 23:51:57,760: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:51:58,181: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:51:58,182: 'z'
+2019-09-09 23:52:08,807: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:52:09,205: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:52:09,206: 'v'
+2019-09-09 23:52:10,718: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:52:11,141: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:52:11,142: 'q'
+2019-09-09 23:52:11,568: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:52:11,990: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:52:11,993: 'w'
+2019-09-09 23:52:12,474: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:52:12,899: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:52:12,903: 'e'
+2019-09-09 23:52:13,349: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:52:13,752: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:52:13,753: 't'
+2019-09-09 23:52:14,164: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:52:14,571: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:52:14,574: 'y'
+2019-09-09 23:52:23,304: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:52:23,716: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:52:23,717: 'x'
+2019-09-09 23:53:22,078: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:22,747: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:22,749: Key.shift
+2019-09-09 23:53:23,188: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:23,666: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:23,670: Key.shift
+2019-09-09 23:53:24,109: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:24,517: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:24,518: Key.shift
+2019-09-09 23:53:25,109: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:25,572: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:25,575: Key.shift
+2019-09-09 23:53:29,718: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:30,140: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:30,142: Key.shift
+2019-09-09 23:53:30,774: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:31,212: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:31,214: Key.down
+2019-09-09 23:53:33,649: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:34,054: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:34,055: Key.shift
+2019-09-09 23:53:36,331: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:36,711: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:36,716: Key.shift
+2019-09-09 23:53:48,321: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:49,026: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:49,029: Key.backspace
+2019-09-09 23:53:50,916: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:51,315: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:51,315: Key.delete
+2019-09-09 23:53:57,945: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:58,634: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:58,636: Key.backspace
+2019-09-09 23:53:59,073: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:53:59,479: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:53:59,483: Key.backspace
+2019-09-09 23:53:59,917: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:54:00,330: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:54:00,332: Key.backspace
+2019-09-09 23:54:12,021: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:54:12,437: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:54:12,441: Key.backspace
+2019-09-09 23:54:19,320: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:54:19,724: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:54:19,728: Key.shift_r
+2019-09-09 23:54:20,593: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:54:20,999: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:54:20,999: Key.tab
+2019-09-09 23:54:21,490: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:54:22,005: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:54:22,006: Key.shift
+2019-09-09 23:54:28,099: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:54:28,491: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:54:28,491: '8'
+2019-09-09 23:54:31,718: https://sheets.googleapis.com:443 "POST /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0:batchUpdate HTTP/1.1" 200 None
+2019-09-09 23:54:32,255: https://sheets.googleapis.com:443 "PUT /v4/spreadsheets/12sJS1jqVcZj_0ml-2gLptvEXYlAbCrkBzCgKSn5qyq0/values/Sheet1%21A1?valueInputOption=RAW HTTP/1.1" 200 None
+2019-09-09 23:54:32,257: '6'
